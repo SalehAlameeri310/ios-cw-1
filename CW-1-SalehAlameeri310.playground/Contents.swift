@@ -30,3 +30,12 @@ age < friendAge
 age >= friendAge
 age > friendAge
 age != friendAge
+age * friendAge
+age + friendAge
+age - friendAge
+age / friendAge
+age % friendAge
+height + friendHeight
+height * friendHeight
+height / friendHeight
+height % friendHeight
